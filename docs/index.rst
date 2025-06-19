@@ -11,7 +11,7 @@ Learn how to log into your Dragon NaturallySpeaking account with ease, plus get 
    :alt: express VPN sign in Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/expressvpn-signin
+   :target: https://aclogportal.com/dragon-naturally-speaking-login
 
 Among the most cutting-edge speech recognition software solutions, Dragon NaturallySpeaking allows for speedier documentation and hands-free control.  To begin using Dragon NaturallySpeaking, whether for medical transcription, corporate communication, or personal productivity, you must have access to your account.  For a trouble-free login, follow this tutorial, which will lead you through the steps and provide helpful hints.
 
