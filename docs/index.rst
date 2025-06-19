@@ -8,7 +8,7 @@ How Do I Log Into My Dragon NaturallySpeaking Account?
 Learn how to log into your Dragon NaturallySpeaking account with ease, plus get answers to common login questions and account setup tips.
 
 .. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
-   :alt: express VPN sign in Account
+   :alt: Dragon Naturally Speaking Account login
    :width: 400px
    :align: center
    :target: https://aclogportal.com/dragon-naturally-speaking-login
