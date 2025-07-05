@@ -7,11 +7,11 @@ How Do I Log Into My Dragon NaturallySpeaking Account?
 
 Learn how to log into your Dragon NaturallySpeaking account with ease, plus get answers to common login questions and account setup tips.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Dragon Naturally Speaking Account login
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/dragon-naturally-speaking-login
+   :target: https://dragonnaturallyspeakingaccount.com/
 
 Among the most cutting-edge speech recognition software solutions, Dragon NaturallySpeaking allows for speedier documentation and hands-free control.  To begin using Dragon NaturallySpeaking, whether for medical transcription, corporate communication, or personal productivity, you must have access to your account.  For a trouble-free login, follow this tutorial, which will lead you through the steps and provide helpful hints.
 
